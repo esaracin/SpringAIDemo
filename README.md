@@ -6,7 +6,7 @@ It is intended to showcase some of the basic SpringAI capabilities, such as:
 - Simple user prompts 
 - System prompts, and chatClientBuilder configuration 
 - Tool use 
-- Implicit schema enforcement with Records 
+- Implicit schemas
 - Changing AI backend with low/no code changes
 
 It is heavily adapted from the examples found from Craig Walls' Github, [here](https://github.com/habuma/spring-ai-examples)
